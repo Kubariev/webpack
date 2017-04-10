@@ -1,0 +1,1 @@
+webpackJsonp([1],[,,function(e,n){e.exports="<h2>Heading 2</h2>\r\n<p>Lorem ipsum</p>"},,function(e,n,t){"use strict";var d=t(2),u=function(e){return e&&e.__esModule?e:{default:e}}(d),a=document.createElement("div");a.innerHTML=u.default,a.classList.add("wrap"),document.body.appendChild(a)}],[4]);
